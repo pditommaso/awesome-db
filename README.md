@@ -15,3 +15,4 @@ Time series
 ------------
 * [InfluxDB](https://github.com/influxdata/influxdb)
 * [QuestDB](https://github.com/questdb/questdb)
+* [TimescaleDB](https://github.com/timescale/timescaledb)
