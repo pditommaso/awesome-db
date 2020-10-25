@@ -10,3 +10,8 @@ Embedable engines
 * [RocksDB](https://github.com/facebook/rocksdb) - Library that provides an embeddable, persistent key-value store for fast storage.
 * [MapDB](https://github.com/jankotek/mapdb/) - Fast and easy to use embedded Java database engine.
 * [Xodus](https://github.com/JetBrains/xodus/) - JetBrains Xodus is a Java transactional schema-less embedded database.
+
+Time series
+------------
+* [InfluxDB](https://github.com/influxdata/influxdb)
+* [QuestDB](https://github.com/questdb/questdb)
