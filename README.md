@@ -4,6 +4,7 @@ A curated list of awesome DBs
 Embedable engines
 -----------------
 * [Derby](https://db.apache.org/derby/) - Open source relational database implemented entirely in Java.
+* [Duckdb](https://github.com/duckdb/duckdb) - In-process SQL OLAP Database Management System.
 * [H2](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
 * [LevelDB](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google.
 * [PalDB](https://github.com/linkedin/PalDB) - Embeddable write-once key-value store written in Java.
