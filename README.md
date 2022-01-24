@@ -14,6 +14,10 @@ Embedable engines
 * [verneuil](https://github.com/backtrace-labs/verneuil) - VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores
 * [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite
  
+Key-value
+--------- 
+* [Immudb](https://codenotary.com/technologies/immudb/) - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
+* 
 Time series
 ------------
 * [InfluxDB](https://github.com/influxdata/influxdb)
